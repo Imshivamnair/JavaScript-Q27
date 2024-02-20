@@ -54,3 +54,6 @@ var myArray = [1, 2, 3, 5, 6, 7, 10, 11, 14, 15, 17, 19, 20, 22, 23];
 // Log the result of calling array_binarySearch with the input array and desired element to the console
 console.log(array_binarySearch(myArray, 6)); 
  
+**Sample Output:**
+
+4
